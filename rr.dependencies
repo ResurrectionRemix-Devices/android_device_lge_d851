@@ -1,0 +1,22 @@
+[
+  {
+   "repository": "LineageOS/android_device_qcom_common",
+   "target_path": "device/qcom/common",
+   "branch"     : "lineage-15.1"
+  },
+  {
+    "repository" : "G3-Development/android_kernel_lge_g3",
+    "target_path": "kernel/lge/g3",
+    "branch"     : "8.1"
+  },
+  {
+    "repository" : "G3-Development/android_device_lge_g3-common",
+    "target_path": "device/lge/g3-common",
+    "branch"     : "8.1"
+  },
+  {
+    "repository" : "G3-Development/proprietary_vendor_lge",
+    "target_path": "vendor/lge",
+    "branch"     : "8.1"
+  }
+]
